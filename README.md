@@ -38,7 +38,7 @@ streamlit==0.79.0
 
 
 # Snapshots Of UI
-###**Without Mask**
+### **Without Mask**
 
 
 # 1.
