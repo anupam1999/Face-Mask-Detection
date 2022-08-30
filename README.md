@@ -44,6 +44,8 @@ streamlit==0.79.0
 
 
 ![image](https://user-images.githubusercontent.com/41635465/140611523-6d243cba-34f9-44a3-837d-da88e5f5e59a.png)
+![image](https://user-images.githubusercontent.com/41635465/187360521-93ae697b-3dc0-4bae-b20a-4931312b3c0e.png)
+
 
 
 
@@ -57,5 +59,7 @@ streamlit==0.79.0
 
 
 ![image](https://user-images.githubusercontent.com/41635465/140611745-dcc9b01c-030d-4134-b7b2-22f564055a19.png)
+![image](https://user-images.githubusercontent.com/41635465/187360575-d451e34f-23c8-48e8-a1d7-6dd70c6a79f9.png)
+
 
 
